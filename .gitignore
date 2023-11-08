@@ -1,0 +1,35 @@
+# Flask and Python specific files/directories
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Uploads and static directories (do not track uploaded or generated files)
+uploads/
+static/
+
+# Virtual environment directories (venv or env)
+/venv
+env/
+
+# IDE and editor specific files/directories
+.vscode/
+.idea/
+*.code-workspace
+*.suo
+*.sln
+*.swp
+*.log
+*.tmp
+
+# Compiled Python files (e.g., .pyc files)
+*.pyc
+
+# Environment-specific files
+.env
+
+# Miscellaneous files
+.DS_Store
+Thumbs.db
+
