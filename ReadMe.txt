@@ -1,4 +1,4 @@
-This is a image editor file created by vaibhav N.V.S,software engineer at HCLSoftware.
+This is a image editor Project created by vaibhav N.V.S,software engineer at HCLSoftware.
 Prerequesites:
 This project requires several modules.They are
 1.OpenCV
